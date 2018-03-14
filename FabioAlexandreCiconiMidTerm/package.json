@@ -1,0 +1,9 @@
+{
+  "name": "fabio-alexandre-ciconi-mid-term",
+  "version": "0.0.0",
+  "description": "FabioAlexandreCiconiMidTerm",
+  "main": "server.js",
+  "author": {
+    "name": "fabio"
+  }
+}
